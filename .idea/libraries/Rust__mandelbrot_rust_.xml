@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Rust &lt;mandelbrot-rust&gt;">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/rust-downloads/rust-1.8.0-src.zip!/rust-1.8.0/src/libstd" />
+      <root url="jar://$USER_HOME$/rust-downloads/rust-1.8.0-src.zip!/rust-1.8.0/src/libcore" />
+      <root url="jar://$USER_HOME$/rust-downloads/rust-1.8.0-src.zip!/rust-1.8.0/src/libcollections" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
